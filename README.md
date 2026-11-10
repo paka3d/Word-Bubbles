@@ -1,0 +1,5 @@
+- Olivia's Word Bubbles - 
+- An HTML based word puzzle game - Ages 5 and up -
+- 
+- Code review exercise, review code generation missteps/issues using local ( qwen 3.8 27b )
+- Basic Game design and iteration practices working with LM_Studio Bionics' agents
